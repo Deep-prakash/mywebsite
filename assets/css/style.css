@@ -1,0 +1,75 @@
+/*---------------------------- Universal --------------------*/
+
+.background{
+    background-color:whitesmoke;  
+}
+
+
+a{
+    
+    text-decoration: none;
+    color: darkviolet;
+    font-size: 20px;
+    
+}
+
+
+footer{
+    
+    
+    background-color: #30373b;
+    padding: 20px;
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+    
+}
+/*--------------------------- 1st section ---------------------*/
+
+.image {
+    
+    border: .5em solid white;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, .19), 0 6px 6px rgba(0, 0, 0, .23);
+    transform: rotate(-2deg);
+    height : 80vh;  
+    margin-left: 50px;
+    margin-top: 0px;
+}
+
+
+h2{
+    
+    color: black;
+    font-size: 70px;
+    font-family: sans-serif;
+    margin-top: 20px;
+    text-align: center;
+    
+}
+
+h3{
+    
+    
+    color:#30373b;
+    font-size: 30px;
+    margin-top: -40px;
+    text-align: center;
+    
+}
+
+p{
+    
+    margin-top: -10px;
+    text-align: center;
+}
+
+.anker{
+    
+    color: green;
+}
+
+.anker2{
+    
+    color: #30373b;
+    font-size: 20px;
+}
