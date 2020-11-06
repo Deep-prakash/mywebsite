@@ -32,7 +32,7 @@ footer{
     box-shadow: 0 10px 20px rgba(0, 0, 0, .19), 0 6px 6px rgba(0, 0, 0, .23);
     transform: rotate(-2deg);
     height : 80vh; 
-    Width: 20 px; 
+    Width: 0 px; 
     margin-left: 0px;
     margin-top: 0px;
 }
